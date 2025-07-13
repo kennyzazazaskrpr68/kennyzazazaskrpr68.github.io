@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<!--ทำพื้นหลังหน้าแรก-->
+<html style="height: 2000px;background: linear-gradient(to right, #EA69A8, #239BD7);">
+
+    <div style="width:1000px;height:500px;margin:0 auto;position: fixed;top:100px;left: 150px">
+        <iframe src="https://drive.google.com/file/d/1xes3sCYwRwKJFhUBvoIJRkIwMHLYnKgY/preview" width="1000px" height="500px" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+     
+
+</html>
